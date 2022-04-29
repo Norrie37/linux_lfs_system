@@ -2,5 +2,10 @@
 
 ## Objective
 
-The LFS System will be built using an exiting Linux Distribution. It will be used as a starting point to provide necessary programs, including a compiler, a linker, and shell, to build the new system.
+The LFS System will be built using an existing Linux Distribution. The Linux Distro will provide these necessary programs:
 
+* a compiler,
+* a linker,
+* and shell,
+
+to build the new system.
